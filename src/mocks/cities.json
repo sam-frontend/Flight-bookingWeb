@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Enugu",
+    "state": "Enugu"
+  },
+  {
+    "id": "2",
+    "name": "Ikeja",
+    "state": "Lagos"
+  },
+  {
+    "id": "3",
+    "name": "Abuja",
+    "state": "Abj"
+  },
+  {
+    "id": "4",
+    "name": "portHarcourt",
+    "state": "Rivers State"
+  },
+  {
+    "id": "5",
+    "name": "Asaba",
+    "state": "Delta"
+  },
+  {
+    "id": "6",
+    "name": "Enugu",
+    "state": "Asaba"
+  },
+  {
+    "id": "7",
+    "name": "Awka",
+    "state": "Anambra"
+  },
+  {
+    "id": "7",
+    "name": "Uyo",
+    "state": "Akwaibom"
+  },
+  {
+    "id": "7",
+    "name": "Calabar",
+    "state": "Cross River"
+  }
+]

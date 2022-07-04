@@ -1,0 +1,112 @@
+[
+  {
+    "flightNbr": "6E-278",
+    "airlineName": "Peace Airline",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png",
+    "deptTime": "20:00",
+    "deptCity": "Enugu",
+    "arivalTime": "22:00",
+    "arivalCity": "Abuja",
+    "noOfStops": "0",
+    "price": "15000"
+  },
+  {
+    "flightNbr": "6E-274",
+    "airlineName": "Arik Airline",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png",
+    "deptTime": "16:00",
+    "deptCity": "Enugu",
+    "arivalTime": "18:00",
+    "arivalCity": "Abj",
+    "noOfStops": "0",
+    "price": "15000"
+  },
+  {
+    "flightNbr": "6E-275",
+    "airlineName": "Arik Airline",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png",
+    "deptTime": "15:00",
+    "deptCity": "Enugu",
+    "arivalTime": "17:00",
+    "arivalCity": "Abj",
+    "noOfStops": "0",
+    "price": "15000"
+  },
+  {
+    "flightNbr": "6E-275",
+    "airlineName": "Aero Contractor",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png",
+    "deptTime": "15:00",
+    "deptCity": "Lagos",
+    "arivalTime": "17:00",
+    "arivalCity": "Abj",
+    "noOfStops": "1",
+    "price": "20000"
+  },
+  {
+    "flightNbr": "AI-275",
+    "airlineName": "Arik Airline",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/air-india-logo_0.png",
+    "deptTime": "03:00",
+    "deptCity": "Lagos",
+    "arivalTime": "05:00",
+    "arivalCity": "Portharcourt",
+    "noOfStops": "0",
+    "price": "15000"
+  },
+  {
+    "flightNbr": "AI-275",
+    "airlineName": "Air Peace",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/air-india-logo_0.png",
+    "deptTime": "04:00",
+    "deptCity": "Lagos",
+    "arivalTime": "06:00",
+    "arivalCity": "Asaba",
+    "noOfStops": "0",
+    "price": "3600"
+  },
+  {
+    "flightNbr": "AI-275",
+    "airlineName": "Air Peace",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/air-india-logo_0.png",
+    "deptTime": "03:00",
+    "deptCity": "Lagos",
+    "arivalTime": "05:00",
+    "arivalCity": "Calabar",
+    "noOfStops": "0",
+    "price": "1500"
+  },
+  {
+    "flightNbr": "AI-275",
+    "airlineName": "Air Peace",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/air-india-logo_0.png",
+    "deptTime": "04:00",
+    "deptCity": "Abuja",
+    "arivalTime": "06:00",
+    "arivalCity": "Enugu",
+    "noOfStops": "0",
+    "price": "20000"
+  },
+  {
+    "flightNbr": "AI-266",
+    "airlineName": "Airo Contractor",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/air-india-logo_0.png",
+    "deptTime": "04:00",
+    "deptCity": "Asaba",
+    "arivalTime": "06:00",
+    "arivalCity": "Calabar",
+    "noOfStops": "0",
+    "price": "15000"
+  },
+  {
+    "flightNbr": "6E-279",
+    "airlineName": "Arik Airline",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png",
+    "deptTime": "16:00",
+    "deptCity": "Enugu",
+    "arivalTime": "22:00",
+    "arivalCity": "Asaba",
+    "noOfStops": "2",
+    "price": "20000"
+  }
+]
