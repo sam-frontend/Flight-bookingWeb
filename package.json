@@ -11,8 +11,6 @@
     "@material-ui/styles": "4.11.4",
     "@material-ui/utils": "4.11.2",
     "@ryancavanaugh/redux-saga": "0.9.12-alpha",
-    "enzyme": "3.11.0",
-    "enzyme-adapter-react-16": "1.15.6",
     "jest": "27.0.5",
     "jest-enzyme": "7.1.2",
     "jest-styled-components": "7.0.4",
